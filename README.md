@@ -81,10 +81,6 @@ if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=False)
 ```
 
-## Result
-![실행화면](./screenshot.png)
-![데모영상](./demo.mp4)
-
 ## Note
 - SSH terminal was used to run the code remotely on Raspberry Pi 5
 - Photos and videos were taken separately due to SSH connection limitations
